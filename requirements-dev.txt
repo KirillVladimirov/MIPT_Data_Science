@@ -1,0 +1,26 @@
+# --------- jupyter --------- #
+jupyter-core
+jupyterlab==3.6.8
+jupyter-tensorboard-proxy
+jupyterlab-git
+jupyterlab-code-formatter
+xeus-python
+jupyter-lsp
+python-lsp-server
+lckr-jupyterlab-variableinspector
+tensorboard-plugin-profile
+
+# --------- others --------- #
+tornado==6.1
+setuptools
+wheel
+
+# --------- utils --------- #
+black
+isort
+pytest
+pre-commit
+rich
+omegaconf
+tqdm
+

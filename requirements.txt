@@ -1,0 +1,57 @@
+pytorch
+transformers
+datasets
+# spacy
+nltk
+
+# --------- pytorch --------- #
+tokenizers
+datasets
+transformers
+torch==2.3.0
+torchtext==0.18
+torchvision==0.18
+torchaudio
+pytorch_lightning
+
+# --------- hydra --------- #
+hydra-core
+hydra-colorlog
+hydra-optuna-sweeper
+sacred
+
+# --------- nlp --------- #
+gensim
+spacy
+nltk
+
+# --------- metrics --------- #
+scikit_learn
+torchmetrics
+seqeval
+evaluate
+
+# --------- loggers --------- #
+tensorboard
+loguru
+pynvml
+
+# --------- data --------- #
+pandas
+numpy
+pyarrow
+
+
+
+# --------- models --------- #
+
+
+
+# --------- visualization --------- #
+seaborn
+matplotlib
+ipython
+plotly
+
+
+
